@@ -1,0 +1,17 @@
+{
+  "name": "nopcommerce-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  },
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.22.4"
+  }
+}

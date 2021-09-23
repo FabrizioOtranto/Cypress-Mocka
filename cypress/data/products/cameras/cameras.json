@@ -1,0 +1,12 @@
+[
+    {
+        "quantity":"2",
+        "individualPrice": "$530.00",
+        "subtotal": "$1,060.00"
+    },
+    {
+        "quantity":"4",
+        "individualPrice": "$530.00",
+        "subtotal": "$2,120.00"
+    }
+]
